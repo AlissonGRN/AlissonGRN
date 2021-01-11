@@ -7,7 +7,7 @@
 <img src="https://img.shields.io/badge/-alissongrn_-E1306C?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/alissongrn_/" alt="Instagram Badge">
 </a>
 
-📫 How to reach me: alisson.nascimento.dev@gmail.com
+📫 How to reach me: alissonnascimento.dev@gmail.com
 ````bash
 > help --info
 > I'm 19 years old
