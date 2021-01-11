@@ -1,10 +1,10 @@
 ### Hi i'm Alisson 👋
 
 <a target="_blank" href="https://twitter.com/AlissonGRN">
-<img src="https://img.shields.io/badge/sidbelbase-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/AlissonGRN" alt="Twitter Badge">
+<img src="https://img.shields.io/badge/AlissonGRN-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/AlissonGRN" alt="Twitter Badge">
 </a>
 <a target="_blank" href="https://www.instagram.com/alissongrn_/">
-<img src="https://img.shields.io/badge/-sidbelbase-E1306C?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/alissongrn_/" alt="Instagram Badge">
+<img src="https://img.shields.io/badge/-AlissonGRN-E1306C?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/alissongrn_/" alt="Instagram Badge">
 </a>
 
 📫 How to reach me: alissonnascimento.dev@gmail.com
