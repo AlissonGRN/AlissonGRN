@@ -13,7 +13,7 @@
 > I'm 19 years old
 > I'm currently studying information systems at Rural Federal University of Pernambuco
 > My mian programming language is javascript
-> Technologies i know: Js, Html, CSS, React, Express, MongoDB, NodeJs, Python, Java
+> Technologies i know: Js, Html, CSS, Express, MongoDB, NodeJs, Python, Java
 > My OS: ubuntu 20.04
 > Code editor: VS Code
 ````
