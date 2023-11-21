@@ -19,3 +19,8 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlissonGRN&theme=bear" width=750  alt="stats graph"/>
 
 </div>
+<p align="center">
+<a href="https://github.com/AlissonGRN">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AlissonGRN&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
