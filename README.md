@@ -2,8 +2,6 @@
 
 - 🎓 I'm currently studying information systems at UFRPE-UAST and researching VR applications and disabilities
 - 🎓 I'm part of LEIA research group
-- 🌱 I’m currently learning VR game development 
-- 😄 Pronouns: He/Him
 - 📫 How to reach me: alissonnascimento.dev@gmail.com
 
 ### 🛠 Tech Stack & Tools
