@@ -10,7 +10,7 @@ Copy
 
 ### 📬 Connect with Me
 [![Gmail](https://img.shields.io/badge/Gmail-alissonnascimento.dev@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alissonnascimento.dev@gmail.com)
-[![Instagram](https://img.shields.io/badge/Inclusão_Digital-@alissongrn_-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/alissongrn_/)
+[![Instagram](https://img.shields.io/badge/Alisson Nascimento-@alissongrn_-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/alissongrn_/)
 
 ---
 
