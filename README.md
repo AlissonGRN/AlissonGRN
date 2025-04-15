@@ -36,7 +36,7 @@
 ### 🌟 Community Involvement
 
 **Digital Inclusion Project**  
-📱 Teaching computer science at [APAE Serra Talhada](https://www.apaeserratalhada.org.br/)  
+📱 Teacher at [APAE Serra Talhada](https://www.apaeserratalhada.org.br/)  
 ♿ Developing accessible technological solutions for people with disabilities  
 💻 Creating inclusive learning materials and adapted curricula  
 🔄 Follow our work: [@inclusaodigitalapaest](https://www.instagram.com/inclusaodigitalapaest/)
