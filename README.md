@@ -1,5 +1,3 @@
-Copy
-
 ### Hi, I'm Alisson 👋 | Full-Stack Developer & Tech Educator
 
 🎓 **Information Systems Student** at [UFRPE-UAST](https://www.ufrpe.br/)  
