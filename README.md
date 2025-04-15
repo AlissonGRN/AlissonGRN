@@ -1,25 +1,51 @@
-### Hi i'm Alisson 👋
+Copy
 
-- 🎓 I'm currently studying information systems at UFRPE-UAST and researching VR applications and disabilities
-- 🎓 I'm part of LEIA research group
-- 📫 How to reach me: alissonnascimento.dev@gmail.com
+### Hi, I'm Alisson 👋 | Full-Stack Developer & Tech Educator
 
-### 🛠 Tech Stack & Tools
+🎓 **Information Systems Student** at [UFRPE-UAST](https://www.ufrpe.br/)  
+🔍 **Researcher** in VR Applications for People with Disabilities @ **LEIA**  (Applied Computer Science Studies Laboratory)  
+👨🏫 **Computer Science Teacher** @ [APAE Serra Talhada](https://www.apaeserratalhada.org.br/)
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+---
+
+### 📬 Connect with Me
+[![Gmail](https://img.shields.io/badge/Gmail-alissonnascimento.dev@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alissonnascimento.dev@gmail.com)
+[![Instagram](https://img.shields.io/badge/Inclusão_Digital-@alissongrn_-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/alissongrn_/)
+
+---
+
+### 🛠️ Tech Stack
+
+**Frontend & Mobile**  
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+
+**Backend**  
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+
+**Tools & Platforms**  
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-<div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlissonGRN&theme=bear" width=750  alt="stats graph"/>
+---
 
-</div>
+### 🌟 Community Involvement
+
+**Digital Inclusion Project**  
+📱 Teaching computer science at [APAE Serra Talhada](https://www.apaeserratalhada.org.br/)  
+♿ Developing accessible technological solutions for people with disabilities  
+💻 Creating inclusive learning materials and adapted curricula  
+🔄 Follow our work: [@inclusaodigitalapaest](https://www.instagram.com/inclusaodigitalapaest/)
+
+---
+
+### 📈 GitHub Stats
+
+[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlissonGRN&show_icons=true&theme=dark)](https://github.com/AlissonGRN)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AlissonGRN&layout=compact&theme=dark)](https://github.com/AlissonGRN)
