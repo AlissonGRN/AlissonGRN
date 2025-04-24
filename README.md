@@ -2,7 +2,7 @@
 
 🎓 **Information Systems Student** at [UFRPE-UAST](https://www.ufrpe.br/)  
 🔍 **Researcher** in VR Applications for People with Disabilities @ **LEIA**  (Applied Computer Science Studies Laboratory)  
-👨🏫 **Computer Science Teacher** @ [APAE Serra Talhada](https://www.apaeserratalhada.org.br/)
+👨🏫 **Teacher** @ [APAE Serra Talhada](https://www.apaeserratalhada.org.br/)
 
 ---
 
