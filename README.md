@@ -1,7 +1,9 @@
 ### Olá, sou Alisson 👋 | Desenvolvedor Backend & Educador
 
 🎓 **Estudante de Sistemas de Informação** na [UFRPE-UAST](https://www.ufrpe.br/)
+
 🔍 **Pesquisador** no **LEIA** (Laboratorio de estudos em informatica aplicada)
+
 👨‍🏫 **Professor de Letramento Digital** na [APAE Serra Talhada](https://www.apaeserratalhada.org.br/)
 
 > 🎯 **Especialista Backend:** Apaixonado por tecnologia com conhecimento sólido em **Python**. Meu foco é a análise e implementação de arquiteturas robustas e APIs eficientes.
